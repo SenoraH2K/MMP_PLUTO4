@@ -11,6 +11,8 @@ import org.testng.annotations.Test;
 
 public class LoginTests extends BaseClass {
 	
+	//GITHUB IS FUN
+	
 	@Test(dataProvider="DP")
 	public void validateInvLogin(String uname,String pword,String expected)
 	{
