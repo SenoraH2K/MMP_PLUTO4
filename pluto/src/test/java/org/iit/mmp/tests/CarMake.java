@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class CarMake {
 
 	public static void main(String[] args) {
+		//checking uparrow downarrow
 		
 		ArrayList<String> cars = new ArrayList<String>();
 		
