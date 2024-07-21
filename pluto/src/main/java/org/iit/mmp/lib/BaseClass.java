@@ -11,6 +11,7 @@ public class BaseClass {
 	@BeforeClass
 	public void instantiateDriver()
 	{
+		//comment
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();//declaration
 	}
